@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Rahul's blog
 
-I'm glad you are here. I plan to talk about ...
+I am working with jekyll for the first time and also learning it while doing so. This page is intended to be used as a playground for the skills learned while completing the course [First week with Github](https://lab.github.com/githubtraining/first-week-on-github)
